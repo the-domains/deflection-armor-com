@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[DEFLECTION ARMOR.com]]></title>
         <description><![CDATA[DEFLECTION ARMOR.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/deflection-armor-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 16 Oct 2015 18:57:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 20 Oct 2015 05:27:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/deflection-armor-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome]]></title>
             <description><![CDATA[<article><h1>Welcome</h1><p>Welcome to our new web site!</p></article>]]></description>
-            <link>undefinedwelcome/index.html</link>
+            <link>https://thegrid.ai/deflection-armor-com/welcome/index.html</link>
             <guid isPermaLink="false">43c31fe5-b07d-4992-9fc9-b364094f4019</guid>
             <pubDate>Fri, 16 Oct 2015 18:57:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Over 3 Decades of Research and Development  This cutting edge armor has evolved from over 30 years of intensive R&D and literally hundreds of thousands of live scenarios with people from no training up to professional fighters and elite military and Law Enforcement personnel. The result is the perfect balance of freedom of movement, weight and comfort, with maximum protective ability unlike no other.</p>]]></description>
+            <link>https://thegrid.ai/deflection-armor-com/over-3-decades-of-research-and-development-this-cutting-edg/index.html</link>
+            <guid isPermaLink="false">02523fcb-1f46-476a-b767-e1bc534f2ae1</guid>
+            <pubDate>Tue, 20 Oct 2015 05:27:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
