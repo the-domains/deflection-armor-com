@@ -1,12 +1,12 @@
 ---
 description: '“The absolute BEST dojo in Colorado for Ninjutsu and Jujutsu” —Chris Cord Fantastic martial arts are taught there. Not for everybody, if you can’t behave in kid'
 author: []
-datePublished: '2015-10-31T03:09:35.129Z'
+datePublished: '2015-10-31T03:09:41.297Z'
 publisher:
   domain: coloradoninjutsu.com
   name: coloradoninjutsu.com
 title: ''
-dateModified: '2015-10-31T03:09:28.330Z'
+dateModified: '2015-10-31T03:09:35.129Z'
 sourcePath: _posts/2015-10-31-the-absolute-best-dojo-in-colorado-for-ninjutsu-and-jujutsu.md
 published: true
 inFeed: true
